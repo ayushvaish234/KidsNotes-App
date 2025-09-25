@@ -1,0 +1,6 @@
+node_modules/ linguist-vendored
+frontend/node_modules/ linguist-vendored
+backend/venv/ linguist-vendored
+*.py linguist-language=Python
+*.js linguist-language=JavaScript
+*.jsx linguist-language=JavaScript
