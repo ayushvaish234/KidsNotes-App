@@ -1,0 +1,5 @@
+body {
+  background: #f7f9fb;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+}
+.card { border-radius: 10px; }
