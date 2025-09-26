@@ -143,12 +143,7 @@ MIT License
 
 ---
 
-## Contributing
-
-Pull requests and suggestions are welcome! Please open an issue or submit a PR for improvements.
-
----
 
 ## Contact
 
-For questions or support, contact [your-email@example.com].
+For questions or support, contact ayushvaish87@gmail.com.
